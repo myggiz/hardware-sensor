@@ -3,14 +3,14 @@
 
 const char* ssid = "";
 const char* password =  "";
-//char ssid[] = "SecretMesh";            // your network SSID (name)
-//char pass[] = "f00df00df0";        // your network password
+//char ssid[] = "";            // your network SSID (name)
+//char pass[] = "";        // your network password
 //int status = WL_IDLE_STATUS;     // the Wifi radio's status
 
-const char* mqttServer = "myggiz.com";
-const int mqttPort = 51883;
-const char* mqttUser = "ESP";
-const char* mqttPassword = "1";
+const char* mqttServer = "";
+const int mqttPort = ;
+const char* mqttUser = "";
+const char* mqttPassword = "";
 
 // SHT3X sht30(0x45);
 WiFiClient espClient;
