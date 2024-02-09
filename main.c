@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "SecretMesh";
-const char* password =  "f00df00df0";
+const char* ssid = "";
+const char* password =  "";
 //char ssid[] = "SecretMesh";            // your network SSID (name)
 //char pass[] = "f00df00df0";        // your network password
 //int status = WL_IDLE_STATUS;     // the Wifi radio's status
